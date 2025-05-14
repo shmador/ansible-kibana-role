@@ -42,4 +42,4 @@ BSD
 Author Information
 ------------------
 
-shmador
+Dor Attar
