@@ -33,6 +33,7 @@ Example Playbook
   become: true
   roles:
     - ansible-kibana-role
+```
 
 License
 -------
